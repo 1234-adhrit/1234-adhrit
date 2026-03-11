@@ -68,3 +68,7 @@ The game and WebSockets will run on the same URL.
 - `npm run dev` - run with nodemon
 - `npm start` - start production server
 - `npm run check` - syntax check server and client JS
+
+## Play Online
+
+- https://royal-ludo-arena.onrender.com
