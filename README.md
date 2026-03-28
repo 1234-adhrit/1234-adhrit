@@ -46,9 +46,6 @@ and alive on screen.
 
 <div align="center">
   <a href="https://discord.gg/tkEag8Gj/">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/tkEag8Gj/">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-Join%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://scratch.mit.edu/users/ADHRIT-1234/">
@@ -63,7 +60,10 @@ and alive on screen.
 </div>
 
 <p align="center">
+  Discord invite: <a href="https://discord.gg/tkEag8Gj/">https://discord.gg/tkEag8Gj/</a>
+</p>
+
+<p align="center">
   Thanks for visiting my profile.<br />
   If you like HTML, realtime systems, or creative web projects, we'll probably get along.
 </p>
-
