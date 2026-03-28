@@ -1,74 +1,69 @@
-# Royal Ludo Arena
+<div align="center">
+  <h1>Hey, I'm Adhrit</h1>
+  <h3>I love building with HTML and turning ideas into interactive web experiences.</h3>
 
-Realtime multiplayer Ludo web app where players can:
+  <p>
+    <img alt="HTML First" src="https://img.shields.io/badge/HTML-First-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img alt="Vanilla JS" src="https://img.shields.io/badge/Frontend-Vanilla%20JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" />
+    <img alt="Node.js" src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img alt="Express" src="https://img.shields.io/badge/Framework-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img alt="Socket.IO" src="https://img.shields.io/badge/Realtime-Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  </p>
+</div>
 
-- create private servers
-- join servers by code
-- play `1v1`, `1v1v1`, or `1v1v1v1`
-- let only the server creator start the match
+## About Me
 
-## Tech Stack
+I enjoy coding with **HTML** the most and building projects that feel alive in the browser.
+My favorite work mixes clean frontend rendering with realtime interaction and multiplayer sync.
 
-- Node.js + Express
-- Socket.IO for realtime multiplayer sync
-- HTML/CSS/Vanilla JS frontend with canvas board rendering
+## I Like Creating With
 
-## Run Locally
+- **Node.js + Express** for backend logic and routing
+- **Socket.IO** for realtime multiplayer sync
+- **HTML / CSS / Vanilla JavaScript** for frontend structure, styling, and rendering
 
-1. Install dependencies:
-
-```bash
-npm install
+```js
+const adhrit = {
+  loves: ["HTML", "interactive websites", "creative ideas"],
+  buildsWith: {
+    backend: ["Node.js", "Express"],
+    realtime: ["Socket.IO"],
+    frontend: ["HTML", "CSS", "Vanilla JS"]
+  },
+  focus: ["rendering", "multiplayer sync", "web experiments"]
+};
 ```
 
-2. Start in development mode:
+## What I Like Building
 
-```bash
-npm run dev
-```
+I like projects that are fast, interactive, and fun to use. If it involves browser rendering,
+realtime updates, or multiplayer-style experiences, I'm probably into it.
 
-3. Open:
+From frontend layout to live syncing systems, I enjoy making things that feel smooth, responsive,
+and alive on screen.
 
-```text
-http://localhost:3000
-```
+## Connect With Me
 
-For production run:
+<div align="center">
+  <a href="https://discord.gg/tkEag8Gj/">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/tkEag8Gj/">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-Join%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://scratch.mit.edu/users/ADHRIT-1234/">
+    <img alt="Scratch" src="https://img.shields.io/badge/Scratch-ADHRIT--1234-FF8C1A?style=for-the-badge&logo=scratch&logoColor=white" />
+  </a>
+  <a href="https://penguinmod.com/profile?user=adhrit-1234/">
+    <img alt="Penguin Mod" src="https://img.shields.io/badge/Penguin%20Mod-adhrit--1234-00AEEF?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://www.roblox.com/users/7940703048/profile/">
+    <img alt="Roblox" src="https://img.shields.io/badge/Roblox-Profile-000000?style=for-the-badge&logo=roblox&logoColor=white" />
+  </a>
+</div>
 
-```bash
-npm start
-```
+<p align="center">
+  Thanks for visiting my profile.<br />
+  If you like HTML, realtime systems, or creative web projects, we'll probably get along.
+</p>
 
-## Game Flow
-
-1. Player creates a server and selects the mode (`2`, `3`, or `4` players).
-2. Server code is shared with friends.
-3. Players join with name + room code.
-4. Host starts once all slots are filled.
-5. Turns, dice rolls, token movement, captures, and winner logic are synced server-side.
-
-## Deploy Notes
-
-- Deploy on a platform that supports persistent Node processes and WebSockets (for example Render, Railway, Fly.io, or a VPS).
-- Pure static hosts (like basic GitHub Pages) will not work because the Socket.IO server must run continuously.
-- Set `PORT` from environment (already supported by `server.js`).
-
-## Quick Publish (Render)
-
-1. Push this project to a GitHub repository.
-2. Open Render and click **New +** -> **Blueprint**.
-3. Connect your GitHub repo and select this project.
-4. Render will detect [`render.yaml`](./render.yaml) and create the web service automatically.
-5. Wait for deployment to finish, then open your Render URL.
-
-The game and WebSockets will run on the same URL.
-
-## Scripts
-
-- `npm run dev` - run with nodemon
-- `npm start` - start production server
-- `npm run check` - syntax check server and client JS
-
-## Play Online
-
-- https://royal-ludo-arena.onrender.com
