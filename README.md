@@ -67,8 +67,3 @@ and alive on screen.
   Thanks for visiting my profile.<br />
   If you like HTML, realtime systems, or creative web projects, we'll probably get along.
 </p>
-
-<p align="center">
-  Visit all links-
-   https://one234-adhrit-links.onrender.com
-</p>
