@@ -45,7 +45,7 @@ and alive on screen.
 ## Connect With Me
 
 <div align="center">
-  <a href="https://discord.gg/tkEag8Gj/">
+  <a href="https://discord.gg/tkEag8Gj">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-Join%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://scratch.mit.edu/users/ADHRIT-1234/">
