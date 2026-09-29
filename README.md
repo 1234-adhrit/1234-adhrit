@@ -49,7 +49,7 @@ that feel smooth, responsive, and genuinely useful.
 ## Connect With Me
 
 <div align="center">
-  <a href="https://discord.gg/tkEag8Gj">
+  <a href="https://discord.gg/js33F9Th43">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-Join%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://scratch.mit.edu/users/ADHRIT-1234/">
@@ -64,7 +64,7 @@ that feel smooth, responsive, and genuinely useful.
 </div>
 
 <p align="center">
-  Discord invite: <a href="https://discord.gg/tkEag8Gj/">https://discord.gg/tkEag8Gj/</a>
+  Discord invite: <a href="https://discord.gg/js33F9Th43">https://discord.gg/js33F9Th43</a>
 </p>
 
 <p align="center">
