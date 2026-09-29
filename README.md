@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi everyone, I'm Adhrit</h1>
-  <h3>I love building with HTML and turning ideas into interactive web experiences.</h3>
+  <h3>I love turning ideas into interactive websites and useful Windows apps.</h3>
 
   <p>
     <img alt="HTML First" src="https://img.shields.io/badge/HTML-First-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -14,33 +14,37 @@
 ## About Me
 
 I enjoy coding with **HTML** the most and building projects that feel alive in the browser.
-My favorite work mixes clean frontend rendering with realtime interaction and multiplayer sync.
+My favorite work mixes clean frontend design with realtime interaction and multiplayer sync.
+I also like creating practical **Windows apps** that people can download and use on their own computers.
+When a project is ready, I package it as a downloadable **`.exe`** so it's easy to run on Windows.
 
 ## I Like Creating With
 
 - **Node.js + Express** for backend logic and routing
 - **Socket.IO** for realtime multiplayer sync
 - **HTML / CSS / Vanilla JavaScript** for frontend structure, styling, and rendering
+- **Windows apps** that turn useful ideas into tools people can run on their computers
+- **Downloadable `.exe` files** that make my Windows projects easy to try and use
 
 ```js
 const adhrit = {
-  loves: ["HTML", "interactive websites", "creative ideas"],
+  loves: ["HTML", "interactive websites", "useful Windows apps", "creative ideas"],
   buildsWith: {
     backend: ["Node.js", "Express"],
     realtime: ["Socket.IO"],
     frontend: ["HTML", "CSS", "Vanilla JS"]
   },
-  focus: ["rendering", "multiplayer sync", "web experiments"]
+  focus: ["rendering", "multiplayer sync", "web experiments", "downloadable Windows apps"]
 };
 ```
 
 ## What I Like Building
 
-I like projects that are fast, interactive, and fun to use. If it involves browser rendering,
-realtime updates, or multiplayer-style experiences, I'm probably into it.
+I like projects that are useful, interactive, and fun to use. That includes browser experiences
+with realtime updates, multiplayer-style projects, and Windows apps people can download and run.
 
-From frontend layout to live syncing systems, I enjoy making things that feel smooth, responsive,
-and alive on screen.
+From frontend layouts to live syncing systems and downloadable `.exe` apps, I enjoy making things
+that feel smooth, responsive, and genuinely useful.
 
 ## Connect With Me
 
